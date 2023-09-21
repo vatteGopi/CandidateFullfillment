@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mphasis.candidatefullfilment.CandidatefullfilmentApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.912 s - in com.mphasis.candidatefullfilment.CandidatefullfilmentApplicationTests
